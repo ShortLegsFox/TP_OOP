@@ -1,0 +1,15 @@
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\obj\Debug\net6.0\Bellot_Ian_Tp1.csproj.AssemblyReference.cache
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\obj\Debug\net6.0\Bellot_Ian_Tp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\obj\Debug\net6.0\Bellot_Ian_Tp1.AssemblyInfoInputs.cache
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\obj\Debug\net6.0\Bellot_Ian_Tp1.AssemblyInfo.cs
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\obj\Debug\net6.0\Bellot_Ian_Tp1.csproj.CoreCompileInputs.cache
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\bin\Debug\net6.0\Bellot_Ian_Tp1.exe
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\bin\Debug\net6.0\Bellot_Ian_Tp1.deps.json
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\bin\Debug\net6.0\Bellot_Ian_Tp1.runtimeconfig.json
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\bin\Debug\net6.0\Bellot_Ian_Tp1.dll
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\bin\Debug\net6.0\Bellot_Ian_Tp1.pdb
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\obj\Debug\net6.0\Bellot_Ian_Tp1.dll
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\obj\Debug\net6.0\refint\Bellot_Ian_Tp1.dll
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\obj\Debug\net6.0\Bellot_Ian_Tp1.pdb
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\obj\Debug\net6.0\Bellot_Ian_Tp1.genruntimeconfig.cache
+D:\Cours 1A\OOP\TP1\Bellot_Ian_Tp1\Bellot_Ian_Tp1\obj\Debug\net6.0\ref\Bellot_Ian_Tp1.dll

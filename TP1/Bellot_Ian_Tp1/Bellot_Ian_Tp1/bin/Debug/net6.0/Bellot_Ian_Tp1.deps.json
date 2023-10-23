@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bellot_Ian_Tp1/1.0.0": {
+        "runtime": {
+          "Bellot_Ian_Tp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bellot_Ian_Tp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

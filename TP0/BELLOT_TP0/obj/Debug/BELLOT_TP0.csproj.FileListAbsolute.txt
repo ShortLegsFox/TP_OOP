@@ -1,0 +1,7 @@
+D:\Cours 1A\OOP\TP0\BELLOT_TP0\BELLOT_TP0\bin\Debug\BELLOT_TP0.exe
+D:\Cours 1A\OOP\TP0\BELLOT_TP0\BELLOT_TP0\bin\Debug\BELLOT_TP0.pdb
+D:\Cours 1A\OOP\TP0\BELLOT_TP0\BELLOT_TP0\obj\Debug\BELLOT_TP0.csproj.AssemblyReference.cache
+D:\Cours 1A\OOP\TP0\BELLOT_TP0\BELLOT_TP0\obj\Debug\BELLOT_TP0.csproj.SuggestedBindingRedirects.cache
+D:\Cours 1A\OOP\TP0\BELLOT_TP0\BELLOT_TP0\obj\Debug\BELLOT_TP0.csproj.CoreCompileInputs.cache
+D:\Cours 1A\OOP\TP0\BELLOT_TP0\BELLOT_TP0\obj\Debug\BELLOT_TP0.exe
+D:\Cours 1A\OOP\TP0\BELLOT_TP0\BELLOT_TP0\obj\Debug\BELLOT_TP0.pdb
